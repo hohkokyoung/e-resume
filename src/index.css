@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +12,69 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+
+:root {
+  --primary-color: #bc13fe;
+  --secondary-color: #32bce6;
+  --dark-color: #1f1f20;
+}
+
+.primary-color {
+  color: var(--primary-color) !important;
+}
+
+.primary-bg-color {
+  background-color: var(--primary-color) !important;
+}
+
+.secondary-color {
+  color: var(--secondary-color) !important;
+}
+
+.secondary-bg-color {
+  background-color: var(--secondary-color) !important;
+}
+
+
+.dark-color {
+  color: var(--dark-color) !important;
+}
+
+.dark-bg-color {
+  background-color: var(--dark-color) !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.text-decoration-underline {
+  text-decoration: underline;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  color: var(--primary-color);
+}
+
+.vr {
+  display: inline-block;
+  align-self: stretch;
+  width: 2px;
+  min-height: 1em;
+  background-color: var(--primary-color);
+}
+
+.gap-2 {
+  gap: .6rem;
+}
+
+.gap-3 {
+  gap: 1rem;
 }

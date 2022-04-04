@@ -1,0 +1,86 @@
+.main {
+    width: 100vw;
+    height: 100vh;
+}
+
+/* .profile */
+.profile img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/* --------------------------------------- */
+
+/* .introduction */
+.introduction .play {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    bottom: 50%;
+    margin-bottom: -50px;
+    margin-left: -50px;
+    background-color: var(--dark-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.introduction .play-icon {
+    font-size: 2em;
+    color: var(--primary-color);
+    transition: .4s all ease-in-out;
+}
+
+.introduction .play-icon:hover {
+    transform: scale(1.2);
+}
+
+.introduction .play-icon:active {
+    color: var(--secondary-color);
+}
+
+.introduction .content {
+    margin-left: 5rem;
+}
+
+.introduction .content h3 {
+    margin: 0 !important;
+}
+
+.introduction .title {
+    font-size: 5em;
+    font-weight: 700;
+}
+
+.introduction .descriptions {
+    background-color: var(--primary-color);
+    padding: 1.4rem;
+    border-radius: 6px;
+}
+
+.introduction .description {
+    font-weight: 700;
+    line-height: 1.8em;
+    font-size: 1.1em;
+    margin-bottom: 0;
+    color: var(--dark-color);
+}
+/* --------------------------------------- */
+
+
+/* .contact */
+.contact p {
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+.contact .phone-number {
+    font-size: 1.2em;
+}
+
+.contact .social-media {
+    font-size: 2em;
+    margin-bottom: 0;
+}
+/* --------------------------------------- */
