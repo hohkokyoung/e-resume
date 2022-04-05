@@ -30,6 +30,10 @@ code {
   background-color: var(--primary-color) !important;
 }
 
+.primary-border-color {
+  border-color: var(--primary-color) !important;
+}
+
 .secondary-color {
   color: var(--secondary-color) !important;
 }
@@ -37,7 +41,6 @@ code {
 .secondary-bg-color {
   background-color: var(--secondary-color) !important;
 }
-
 
 .dark-color {
   color: var(--dark-color) !important;
@@ -60,6 +63,9 @@ code {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p {
   color: var(--primary-color);
 }
 
@@ -77,4 +83,8 @@ code {
 
 .gap-3 {
   gap: 1rem;
+}
+
+.deg-90 {
+  transform: rotate(90deg);
 }
