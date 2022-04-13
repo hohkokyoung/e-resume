@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/e-resume/static/css/main.2a78c079.css",
-    "main.js": "/e-resume/static/js/main.fe78dfee.js",
+    "main.css": "/e-resume/static/css/main.415abee2.css",
+    "main.js": "/e-resume/static/js/main.dbe5be02.js",
     "static/js/787.db599fbe.chunk.js": "/e-resume/static/js/787.db599fbe.chunk.js",
     "static/media/profile.jpg": "/e-resume/static/media/profile.b1790b26cabe12700d94.jpg",
+    "static/media/flutter-certificate.jpg": "/e-resume/static/media/flutter-certificate.131b16e7ad9379516f94.jpg",
+    "static/media/sql-database-fundamentals-certificate.png": "/e-resume/static/media/sql-database-fundamentals-certificate.b652192893aad7b3d5a2.png",
+    "static/media/aws-cloud-practitioner-certificate.png": "/e-resume/static/media/aws-cloud-practitioner-certificate.0f1e5f0f2e3452359e93.png",
+    "static/media/aws-cloud-practitioner-badge.png": "/e-resume/static/media/aws-cloud-practitioner-badge.1d4d9fa250269a5b5067.png",
     "index.html": "/e-resume/index.html",
-    "main.2a78c079.css.map": "/e-resume/static/css/main.2a78c079.css.map",
-    "main.fe78dfee.js.map": "/e-resume/static/js/main.fe78dfee.js.map",
+    "main.415abee2.css.map": "/e-resume/static/css/main.415abee2.css.map",
+    "main.dbe5be02.js.map": "/e-resume/static/js/main.dbe5be02.js.map",
     "787.db599fbe.chunk.js.map": "/e-resume/static/js/787.db599fbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a78c079.css",
-    "static/js/main.fe78dfee.js"
+    "static/css/main.415abee2.css",
+    "static/js/main.dbe5be02.js"
   ]
 }
