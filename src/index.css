@@ -1,4 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Fredoka+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Dosis:wght@200;300;400;500;600;700;800&family=Fredoka+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Dosis:wght@200;300;400;500;600;700;800&family=Fredoka+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Russo+One&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Bungee&family=Dosis:wght@200;300;400;500;600;700;800&family=Fredoka+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Russo+One&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Bungee&family=Dosis:wght@200;300;400;500;600;700;800&family=Fredoka+One&family=Kalam:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Russo+One&display=swap');
+
+* {
+  /* -webkit-transition: background-color 500ms linear;
+  -moz-transition: background-color 500ms linear;
+  -o-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+  -webkit-transition: color 500ms linear;
+  -moz-transition: color 500ms linear;
+  -o-transition: color 500ms linear;
+  -ms-transition: color 500ms linear;
+  transition: color 500ms linear; */
+}
 
 body {
   margin: 0;
@@ -14,11 +33,11 @@ code {
     monospace;
 }
 
-
-
 :root {
-  --primary-color: #bc13fe;
+  /* --primary-color: #bc13fe; */
+  --primary-color: #af1aea;
   --secondary-color: #32bce6;
+  --light-color: #cccccc;
   --dark-color: #1f1f20;
 }
 
@@ -87,4 +106,89 @@ h1, h2, h3, h4, h5, h6, p {
 
 .deg-90 {
   transform: rotate(90deg);
+}
+
+.deg-180 {
+  transform: rotate(180deg);
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.d-grid {
+  display: grid;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+  .ml-sm-6 {
+    margin-left: 4rem;
+  }
+
+  .ml-sm-7 {
+    margin-left: 5rem;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+  .ml-md-6 {
+    margin-left: 4rem;
+  }
+
+  .ml-md-7 {
+    margin-left: 5rem;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  .ml-lg-6 {
+    margin-left: 4rem;
+  }
+
+  .ml-lg-7 {
+    margin-left: 5rem;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+  .ml-xl-6 {
+    margin-left: 4rem;
+  }
+
+  .ml-xl-7 {
+    margin-left: 5rem;
+  }
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden;
+}
+
+.rounded-1 {
+  border-radius: .3rem;
+}
+
+.rounded-2 {
+  border-radius: .8rem;
+}
+
+.rounded-3 {
+  border-radius: 1rem;
+}
+
+.active {
+  color: var(--dark-color) !important;
+  background-color: var(--primary-color) !important;
+}
+
+.disable-highlight {
+  user-select: none;
 }

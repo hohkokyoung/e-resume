@@ -1,0 +1,70 @@
+/* .certifications */
+/* .certification-badge:nth-child(2) {
+    width: 200px;
+    height: 280px;
+    background-color: white;
+} */
+
+.certifications {
+
+}
+
+.certification-badge {
+    margin-inline: .6rem;
+    position: relative;
+    cursor: pointer;
+}
+
+.certification-badge:nth-child(2) {
+    cursor: initial;
+}
+
+.certification-badge:nth-child(2)::after {
+    content: "";
+    bottom: -50%;
+    width: 80px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: var(--light-color);
+    /* background-color: grey; */
+    opacity: .4;
+    position: absolute;
+    display: block;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.certification-badge img {
+    width: 60px;
+    height: 60px;
+    opacity: .6;
+    object-fit: contain;
+}
+
+.certification-badge:nth-child(2) img {
+    width: 140px;
+    height: 140px;
+    opacity: 1 !important;
+}
+
+.certification-content {
+    margin-top: 6rem;
+}
+
+.certification-title {
+    font-size: 1.1em;
+    font-family: "Fredoka One", sans-serif;
+}
+
+.certification-date {
+    font-family: "Fredoka One", sans-serif;
+}
+
+.certificate-logo {
+    /* width: 40px;
+    height: 40px; */
+    margin-left: .4rem;
+    object-fit: contain;
+    color: var(--secondary-color);
+}
+/* --------------------------------------- */

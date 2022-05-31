@@ -1,0 +1,48 @@
+/* .projects */
+.projects {
+    grid-template-columns: repeat(2, minmax(calc(20% - 2rem), 40%));
+    grid-template-rows: repeat(2, 1fr);
+    overflow: hidden;
+    grid-gap: 2rem 4rem;
+    padding: 1rem;
+    margin-left: 1rem;
+}
+
+.project {
+    /* width: 160px;
+    height: 200px;
+    border: 2px solid var(--primary-color); */
+    width: 100%;
+    transition: .5s ease-in-out all;
+    /* filter: grayscale(100%); */
+    opacity: 0.4;
+}
+
+.project:hover {
+    transform: scale(1.1);
+    /* filter: grayscale(0%); */
+    opacity: 1;
+}
+
+.project:hover .project-description {
+    opacity: 1;
+}
+
+.project-image {
+    width: 100%;
+    object-fit: cover;
+    border: 2px solid var(--primary-color);
+}
+
+.project-name {
+    font-family: "Fredoka One", sans-serif;
+    font-weight: 500;
+}
+
+.project-description {
+    font-weight: 500;
+    font-size: .9em;
+    /* opacity: 0; */
+    transition: .5s ease-in-out all;
+}
+/* --------------------------------------- */
