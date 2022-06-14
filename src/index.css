@@ -35,10 +35,14 @@ code {
 
 :root {
   /* --primary-color: #bc13fe; */
-  --primary-color: #af1aea;
+  /* --primary-color: #af1aea;
   --secondary-color: #32bce6;
   --light-color: #cccccc;
-  --dark-color: #1f1f20;
+  --dark-color: #1f1f20; */
+  --primary-color: white;
+  --secondary-color: #B39A30;
+  --light-color: white;
+  --dark-color: #231F20;
 }
 
 .primary-color {

@@ -1,15 +1,15 @@
 const defaultTheme = {
-    "--primary-color": "#af1aea",
-    "--secondary-color": "#32bce6",
-    "--light-color": "#cccccc",
-    "--dark-color": "#1f1f20"
+    "--primary-color": "white",
+    "--secondary-color": "#B39A30",
+    "--light-color": "white",
+    "--dark-color": "#231F20"
 }
 
 const lightTheme = {
-    "--primary-color": "#262626",
-    "--secondary-color": "red",
-    "--light-color": "#4f4444",
-    "--dark-color": "#e6e6e6"
+    "--primary-color": "#B39A30",
+    "--secondary-color": "white",
+    "--light-color": "white",
+    "--dark-color": "#231F20"
 }
 
 const secondLightTheme = {
@@ -27,10 +27,10 @@ const darkTheme = {
 }
 
 const personalFavouriteTheme = {
-    "--primary-color": "#2303c2",
-    "--secondary-color": "#ffffff",
-    "--light-color": "#00ffe5",
-    "--dark-color": "#000000"
+    "--primary-color": "#262626",
+    "--secondary-color": "red",
+    "--light-color": "#4f4444",
+    "--dark-color": "#e6e6e6"
 }
 
 export const themes = [defaultTheme, lightTheme, secondLightTheme, darkTheme, personalFavouriteTheme]

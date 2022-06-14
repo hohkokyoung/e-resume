@@ -205,6 +205,9 @@ export default function Home() {
                   &#8226; Born in 09 December 1999.
                 </p>
                 <p className={"description"}>
+                  &#8226; Based in Selangor, Malaysia.
+                </p>
+                <p className={"description"}>
                   &#8226; Degree graduate at{" "}
                   <a
                     className={"dark-color text-decoration-underline"}
@@ -215,6 +218,9 @@ export default function Home() {
                     Asia Pacific University (APU)
                   </a>
                   .
+                </p>
+                <p className={"description"}>
+                  &#8226; Received First Class Honours and Best Student Award (CGPA 3.93).
                 </p>
                 <p className={"description"}>
                   &#8226; High fascination towards both front-end and back-end
@@ -237,7 +243,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href="mailto: kelvinhoh1520@hotmail.com"
+            href="mailto: kokyoung1520@gmail.com"
             target={"_blank"}
             rel="noreferrer"
           >

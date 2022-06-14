@@ -10,6 +10,9 @@ import Popper from 'popper.js';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
+import "swiper/swiper-bundle.min.css";
+import "swiper/swiper.min.css";
+
 
 ReactDOM.render(
   <React.StrictMode>
