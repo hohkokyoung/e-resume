@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/e-resume/static/css/main.415abee2.css",
-    "main.js": "/e-resume/static/js/main.dbe5be02.js",
+    "main.css": "/e-resume/static/css/main.e9a3ed06.css",
+    "main.js": "/e-resume/static/js/main.6372c1f5.js",
     "static/js/787.db599fbe.chunk.js": "/e-resume/static/js/787.db599fbe.chunk.js",
+    "static/media/picture-2.png": "/e-resume/static/media/picture-2.df9df8d6c15ae62f7b85.png",
+    "static/media/picture-1.png": "/e-resume/static/media/picture-1.c4a2e5b046fe7d056295.png",
     "static/media/profile.jpg": "/e-resume/static/media/profile.b1790b26cabe12700d94.jpg",
     "static/media/flutter-certificate.jpg": "/e-resume/static/media/flutter-certificate.131b16e7ad9379516f94.jpg",
+    "static/media/picture-3.png": "/e-resume/static/media/picture-3.7d64037a2c9f725bbf60.png",
+    "static/media/picture-6.png": "/e-resume/static/media/picture-6.a176dd23ee2bac64293d.png",
+    "static/media/picture-4.png": "/e-resume/static/media/picture-4.141e9c6081c8cedd89b5.png",
+    "static/media/picture-7.png": "/e-resume/static/media/picture-7.43df66f85e8be8ddeca5.png",
     "static/media/sql-database-fundamentals-certificate.png": "/e-resume/static/media/sql-database-fundamentals-certificate.b652192893aad7b3d5a2.png",
+    "static/media/picture-5.png": "/e-resume/static/media/picture-5.b9904a6e252aaa72ad9e.png",
+    "static/media/picture-8.png": "/e-resume/static/media/picture-8.78d9b2cdae12dd776a3a.png",
     "static/media/aws-cloud-practitioner-certificate.png": "/e-resume/static/media/aws-cloud-practitioner-certificate.0f1e5f0f2e3452359e93.png",
     "static/media/aws-cloud-practitioner-badge.png": "/e-resume/static/media/aws-cloud-practitioner-badge.1d4d9fa250269a5b5067.png",
+    "static/media/udemy-logo.png": "/e-resume/static/media/udemy-logo.5cff5e25e0adff57b798.png",
     "index.html": "/e-resume/index.html",
-    "main.415abee2.css.map": "/e-resume/static/css/main.415abee2.css.map",
-    "main.dbe5be02.js.map": "/e-resume/static/js/main.dbe5be02.js.map",
+    "main.e9a3ed06.css.map": "/e-resume/static/css/main.e9a3ed06.css.map",
+    "main.6372c1f5.js.map": "/e-resume/static/js/main.6372c1f5.js.map",
     "787.db599fbe.chunk.js.map": "/e-resume/static/js/787.db599fbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.415abee2.css",
-    "static/js/main.dbe5be02.js"
+    "static/css/main.e9a3ed06.css",
+    "static/js/main.6372c1f5.js"
   ]
 }
