@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e-resume/static/css/main.e9a3ed06.css",
-    "main.js": "/e-resume/static/js/main.6372c1f5.js",
+    "main.js": "/e-resume/static/js/main.e1ae9c16.js",
     "static/js/787.db599fbe.chunk.js": "/e-resume/static/js/787.db599fbe.chunk.js",
     "static/media/picture-2.png": "/e-resume/static/media/picture-2.df9df8d6c15ae62f7b85.png",
     "static/media/picture-1.png": "/e-resume/static/media/picture-1.c4a2e5b046fe7d056295.png",
@@ -19,11 +19,11 @@
     "static/media/udemy-logo.png": "/e-resume/static/media/udemy-logo.5cff5e25e0adff57b798.png",
     "index.html": "/e-resume/index.html",
     "main.e9a3ed06.css.map": "/e-resume/static/css/main.e9a3ed06.css.map",
-    "main.6372c1f5.js.map": "/e-resume/static/js/main.6372c1f5.js.map",
+    "main.e1ae9c16.js.map": "/e-resume/static/js/main.e1ae9c16.js.map",
     "787.db599fbe.chunk.js.map": "/e-resume/static/js/787.db599fbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a3ed06.css",
-    "static/js/main.6372c1f5.js"
+    "static/js/main.e1ae9c16.js"
   ]
 }
