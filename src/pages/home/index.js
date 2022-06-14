@@ -36,7 +36,7 @@ export default function Home() {
   const [themes, setThemes] = useState(themesConfig);
   const [skillsVisible, setSkillsVisible] = useState(false);
   const [certificationsVisible, setCertificationsVisible] = useState(false);
-  const [projectsVisible, setProjectsVisible] = useState(true);
+  const [projectsVisible, setProjectsVisible] = useState(false);
 
   const toggleAboutMeButton = () => {
     if (aboutMeButtonClass.includes("active")) {
