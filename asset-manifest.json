@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/e-resume/static/css/main.e9a3ed06.css",
-    "main.js": "/e-resume/static/js/main.e1ae9c16.js",
+    "main.js": "/e-resume/static/js/main.c11c2d38.js",
     "static/js/787.db599fbe.chunk.js": "/e-resume/static/js/787.db599fbe.chunk.js",
     "static/media/picture-2.png": "/e-resume/static/media/picture-2.df9df8d6c15ae62f7b85.png",
     "static/media/picture-1.png": "/e-resume/static/media/picture-1.c4a2e5b046fe7d056295.png",
     "static/media/profile.jpg": "/e-resume/static/media/profile.b1790b26cabe12700d94.jpg",
     "static/media/flutter-certificate.jpg": "/e-resume/static/media/flutter-certificate.131b16e7ad9379516f94.jpg",
+    "static/media/resume.pdf": "/e-resume/static/media/resume.b212c7d37756b4bcf04a.pdf",
     "static/media/picture-3.png": "/e-resume/static/media/picture-3.7d64037a2c9f725bbf60.png",
     "static/media/picture-6.png": "/e-resume/static/media/picture-6.a176dd23ee2bac64293d.png",
     "static/media/picture-4.png": "/e-resume/static/media/picture-4.141e9c6081c8cedd89b5.png",
@@ -19,11 +20,11 @@
     "static/media/udemy-logo.png": "/e-resume/static/media/udemy-logo.5cff5e25e0adff57b798.png",
     "index.html": "/e-resume/index.html",
     "main.e9a3ed06.css.map": "/e-resume/static/css/main.e9a3ed06.css.map",
-    "main.e1ae9c16.js.map": "/e-resume/static/js/main.e1ae9c16.js.map",
+    "main.c11c2d38.js.map": "/e-resume/static/js/main.c11c2d38.js.map",
     "787.db599fbe.chunk.js.map": "/e-resume/static/js/787.db599fbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a3ed06.css",
-    "static/js/main.e1ae9c16.js"
+    "static/js/main.c11c2d38.js"
   ]
 }
